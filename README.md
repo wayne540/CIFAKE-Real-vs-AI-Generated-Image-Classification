@@ -1,4 +1,4 @@
-# CIFAKE: Real vs AI-Generated Image Classification
+# Real vs AI-Generated Image Classification
 
 A deep learning project that uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras to classify images as either **REAL** or **AI-GENERATED**.
 
